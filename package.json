@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": "",
-  "author": "",
+  "author": "Gorgi Kosev (gorgi.kosev@gmail.com)",
   "license": "BSD",
   "dependencies": {
     "handlebars": "~3",
@@ -20,7 +20,11 @@
   "readmeFilename": "README.md",
   "maintainers": [
     {
-      "name": "rnhurt",
+      "name": "Gorgi Kosev",
+      "email": "gorgi.kosev@gmail.com"
+    },
+    {
+      "name": "Richard Hurt",
       "email": "rnhurt@gmail.com"
     }
   ]
