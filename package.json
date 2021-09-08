@@ -9,7 +9,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rnhurt/handlebars-cmd.git"
+  },
   "author": "Gorgi Kosev (gorgi.kosev@gmail.com)",
   "license": "BSD",
   "dependencies": {
